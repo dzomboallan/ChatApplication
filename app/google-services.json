@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396269568061",
+    "project_id": "msgshareapp-f3cec",
+    "storage_bucket": "msgshareapp-f3cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396269568061:android:377ee1ef174b3f0a266a54",
+        "android_client_info": {
+          "package_name": "com.example.msgshareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396269568061-99ke0iebpn9vb0auu7i1v2l1n28r1gjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-2Tt3nojatsFHBDoBIzPkCpzWzeA_IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396269568061-99ke0iebpn9vb0auu7i1v2l1n28r1gjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
